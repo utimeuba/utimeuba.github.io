@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://utimeuba.github.io/sitemap_index.utimeuba
